@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"a106eb82b075b932","x":-580,"y":-320,"width":250,"height":60,"type":"text","text":"main"},
+		{"id":"cbf191a05825c128","x":80,"y":-320,"width":250,"height":60,"type":"text","text":"session"},
+		{"id":"a3d292cd49f606db","x":80,"y":40,"width":250,"height":60,"type":"text","text":"DATAbase"},
+		{"id":"3dfff730c796677d","x":-640,"y":-574,"width":250,"height":60,"type":"text","text":"webhook"},
+		{"id":"44a5923193132dfe","x":-390,"y":40,"width":250,"height":60,"type":"text","text":"new user/ old user"}
+	],
+	"edges":[
+		{"id":"9d6a2f7aaf5fa61e","fromNode":"a106eb82b075b932","fromSide":"right","toNode":"cbf191a05825c128","toSide":"left","label":"ID"},
+		{"id":"b93bb6e1f4ebc022","fromNode":"cbf191a05825c128","fromSide":"bottom","toNode":"a3d292cd49f606db","toSide":"top","label":"pull out the info of the user"},
+		{"id":"9e6e6e2a492fba85","fromNode":"3dfff730c796677d","fromSide":"bottom","toNode":"a106eb82b075b932","toSide":"top"},
+		{"id":"10af67a19bcf5bcb","fromNode":"cbf191a05825c128","fromSide":"left","toNode":"a106eb82b075b932","toSide":"right"},
+		{"id":"6d7a564acfab2c88","fromNode":"a106eb82b075b932","fromSide":"bottom","toNode":"44a5923193132dfe","toSide":"top","label":"1"}
+	]
+}

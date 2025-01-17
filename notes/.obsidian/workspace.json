@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "fca718ed35445536",
+    "type": "split",
+    "children": [
+      {
+        "id": "348169c8570d9f6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d3878095b90abb5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "how it works.canvas",
+                "viewState": {
+                  "x": -133.91999999999973,
+                  "y": -135.7800000000005,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "how it works"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6daf74ffb503bb77",
+    "type": "split",
+    "children": [
+      {
+        "id": "a43bc0f0b6c66751",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e53589d4e464d38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f9fc85fd9e14a403",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d95382742d96dd24",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "25ae6297ea12bf7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d151504c93ce85dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f54bdf6f54048146",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "how it works.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for how it works"
+            }
+          },
+          {
+            "id": "b4cd7de738a0c817",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "how it works.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from how it works"
+            }
+          },
+          {
+            "id": "1ed9bc86662d145f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cf395dc4120515da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "how it works.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of how it works"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2d3878095b90abb5",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "how it works.canvas"
+  ]
+}
